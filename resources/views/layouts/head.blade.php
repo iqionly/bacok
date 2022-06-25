@@ -9,5 +9,5 @@
     <!-- Icon Fonts -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
 
-    <script src="/js/app.js"></script>
+    <script src="/js/app.js?nocache={{ time() }}" defer></script>
 </head>
